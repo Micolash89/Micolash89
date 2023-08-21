@@ -145,7 +145,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Micolash89&theme=github	)](https://github.com/Micolash89/github-readme-activity-graph)
+[![Micolas89's GitHub stats](https://github-readme-stats.vercel.app/api?Micolas89=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  
 </details>
