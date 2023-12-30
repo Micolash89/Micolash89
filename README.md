@@ -3,13 +3,13 @@
   <a href="#"><img src="https://i.imgur.com/usdcOik.png"></a>
 </p>
 
-<img src="https://camo.githubusercontent.com/443a1f864f5b7f354e65595d3713156bfab31c7caa731f3f1d214b87aba63168/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="7oSkaaa" height=25px, width=160px//>
+<img src="https://camo.githubusercontent.com/443a1f864f5b7f354e65595d3713156bfab31c7caa731f3f1d214b87aba63168/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Micolash89Banner" height=25px, width=160px style="border-radius: 10px;"/>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Micolash89&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Micolash89&label=Profile%20views&color=0047AB&style=plastic?" alt="Micolash89ViewCount" height=25px, width=160px/> 
 </p>
 
 	
