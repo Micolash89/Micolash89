@@ -5,21 +5,20 @@
 
 <br>
 
-## <picture><img src = "https://i.imgur.com/BvomNsK.png" width = 70px></picture> About me
+## <picture><img src = "https://i.imgur.com/BvomNsK.png" width = 70px></picture> Perfil
 
-- 🎓 I am a systems/programming student with a strong foundation in backend development.
-- 💻 I have experience in backend development, with a focus on problem-solving, and I am steadily expanding my skills 
-- 🚀 Actively engaged in courses covering both backend and frontend development, showcasing expertise in JavaScript, HTML5, CSS3/Bootstrap.
-- 🔍 Focused on excellence and dedication, actively seeking opportunities to gain hands-on experience in technology.
-- 💡 Excited to tackle technological challenges, continuously learn, and collaborate effectively in multidisciplinary teams.
-- 🌱 I’m currently open for a new job opportunity
+- 🎓 Soy un estudiante de sistemas/programación con una sólida base en desarrollo backend.
+- 💻 Tengo experiencia en desarrollo backend, con un enfoque en la resolución de problemas, y estoy ampliando constantemente mis habilidades.
+- 🚀 Participando activamente en cursos que abarcan tanto el desarrollo backend como frontend, mostrando experiencia en JavaScript, HTML5, CSS3/Bootstrap.
+- 🔍 Enfocado en la excelencia y dedicación, buscando activamente oportunidades para adquirir experiencia práctica en tecnología.
+- 💡 Emocionado por enfrentar desafíos tecnológicos, aprender continuamente y colaborar eficazmente en equipos multidisciplinarios.
+- 🌱 Actualmente estoy abierto a nuevas oportunidades laborales.
 
 <br>
 
+## <picture> <img src = "https://i.imgur.com/MzRstLG.png" width = 50px>  </picture> Mis Habilidades
 
-## <picture> <img src = "https://i.imgur.com/MzRstLG.png" width = 50px>  </picture> My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
 <p align="center"> 
  	 &emsp;
@@ -48,7 +47,7 @@
 	</a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
 <p align="center"> 
   	&emsp; 
 	<a href="#">
