@@ -161,7 +161,7 @@
 	&emsp;
 </p>
 
-### <picture> <img src = "https://user-images.githubusercontent.com/25181517/117208736-bdedbf80-adf4-11eb-912f-61c7d43705f6.png" width = 50px>  </picture> JavaScript Technology
+### <picture> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width = 50px>  </picture> JavaScript Technology
 
 <p align="center">
 	&emsp;
