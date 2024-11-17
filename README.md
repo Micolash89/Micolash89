@@ -137,6 +137,7 @@
 	<a href="#">
 		<img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" title="Trello" alt="Trello" height=40px, width=40px/>
 	</a>
+
 </p>
 
 ### <picture> <img src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width = 50px>  </picture> Java Technology
@@ -183,6 +184,14 @@
 	&emsp;
 	<a href="#">
 		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS" height=40px, width=40px/>
+	</a>
+	  &emsp;
+	<a href="#">
+		<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" title="npm" alt="npm" height=40px, width=40px/>
+	</a>
+	  &emsp;
+	<a href="#">
+		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg" title="pnpm" alt="pnpm" height=40px, width=40px/>
 	</a>
 </p>
 
