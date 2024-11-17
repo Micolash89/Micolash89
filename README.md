@@ -131,27 +131,6 @@
 	
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-	<a href="#">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" title="Git" alt="Git" height=40px, width=40px/>
-	</a>
-  &emsp;
-	<a href="#">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Postman.svg" title="Postman" alt="Postman" height=40px, width=40px/>
-	</a>
-  &emsp;
-	<a href="#">
-		<img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" title="Trello" alt="Trello" height=40px, width=40px/>
-	</a>
-  &emsp;
-	<a href="#">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" title="Prisma" alt="Prisma" height=40px, width=40px/>
-	</a>
-</p>
-
 ### <picture> <img src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width = 50px>  </picture> Java Technology
 
 <p align="center">
@@ -204,6 +183,27 @@
 	  &emsp;
 	<a href="#">
 		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg" title="pnpm" alt="pnpm" height=40px, width=40px/>
+	</a>
+</p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
+  &emsp;
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" title="Git" alt="Git" height=40px, width=40px/>
+	</a>
+  &emsp;
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Postman.svg" title="Postman" alt="Postman" height=40px, width=40px/>
+	</a>
+  &emsp;
+	<a href="#">
+		<img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" title="Trello" alt="Trello" height=40px, width=40px/>
+	</a>
+  &emsp;
+	<a href="#">
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" title="Prisma" alt="Prisma" height=40px, width=40px/>
 	</a>
 </p>
 
