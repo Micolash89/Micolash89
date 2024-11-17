@@ -60,7 +60,7 @@
 	</a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Dev
 <p align="center"> 
   	&emsp; 
 	<a href="#">
@@ -73,6 +73,14 @@
  	&emsp; 
 	<a href='#'>	
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" height=40px, width=40px />
+	</a>
+ 	&emsp; 
+	<a href='#'>	
+		<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind" alt="Tailwind" height=40px, width=40px />
+	</a>
+	&emsp;
+	<a href="#">
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" title="SupaBase" alt="SupaBase" height=40px, width=40px/>
 	</a>
 </p>
 
@@ -118,8 +126,9 @@
 	</a>
 	&emsp;
 	<a href="#">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="SQLite" height=40px, width=40px/>
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" height=40px, width=40px/>
 	</a>
+	
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -137,7 +146,10 @@
 	<a href="#">
 		<img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" title="Trello" alt="Trello" height=40px, width=40px/>
 	</a>
-
+  &emsp;
+	<a href="#">
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" title="Prisma" alt="Prisma" height=40px, width=40px/>
+	</a>
 </p>
 
 ### <picture> <img src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width = 50px>  </picture> Java Technology
