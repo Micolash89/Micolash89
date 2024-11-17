@@ -158,19 +158,19 @@
 <p align="center">
 	&emsp;
 	<a href="#">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" height=40px, width=40px/>
+		<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" title="ExpresJS" alt="ExpresJS" height=40px, width=40px/>
 	</a>
 	&emsp;
 	<a href="#">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" height=40px, width=40px/>
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Light.svg" title="NodeJS" alt="NodeJS" height=40px, width=40px/>
 	</a>
 	&emsp;
 	<a href="#">
-		<img src="https://user-images.githubusercontent.com/1125541/148106469-aeb5fd32-1b98-4b6a-8e9a-2a0d95d4e542.png" title="Node.js" alt="Node.js" height=40px, width=40px/>
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Light.svg" title="Vite" alt="Vite" height=40px, width=40px/>
 	</a>
 	&emsp;
 	<a href="#">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express.js" alt="Express.js" height=40px, width=40px/>
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Light.svg" alt="React" alt="React" height=40px, width=40px/>
 	</a>
 	&emsp;
 	<a href="#">
