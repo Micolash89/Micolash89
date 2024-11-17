@@ -54,6 +54,9 @@
   	<a href="#">
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Kotlin-Dark.svg" alt="Kotlin" height=40px, width=40px/>
 	</a>
+  	<a href="#">
+		<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" height=40px, width=40px/>
+	</a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
@@ -167,6 +170,9 @@
 	&emsp;
 	<a href="#">
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/React-Light.svg" alt="React" height=40px, width=40px/>
+	</a>
+	<a href="#">
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="NextJS" height=40px, width=40px/>
 	</a>
 </p>
 
