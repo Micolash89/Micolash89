@@ -140,15 +140,40 @@
 	</a>
 	&emsp;
 	<a href="#">
+		<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Sprint-Boot" alt="Sprint-Boot" height=40px, width=40px/>
+	</a>
+	&emsp;
+	<a href="#">
 		<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Spring Boot" alt="Sprintboot" height=40px, width=40px/>
 	</a>
 	&emsp;
 	<a href="#">
-		<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c31ffdf0-9a97-4a99-9926-0f45d34bdc93" title="Quarkus" alt="Quarkus" height=40px, width=40px/>
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Maven-Light.svg" title="Maven" alt="Maven" height=40px, width=40px/>
 	</a>
 	&emsp;
 </p>
 
+### <picture> <img src = "https://user-images.githubusercontent.com/25181517/117208736-bdedbf80-adf4-11eb-912f-61c7d43705f6.png" width = 50px>  </picture> JavaScript Technology
+
+<p align="center">
+	&emsp;
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" height=40px, width=40px/>
+	</a>
+	&emsp;
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" height=40px, width=40px/>
+	</a>
+	&emsp;
+	<a href="#">
+		<img src="https://user-images.githubusercontent.com/1125541/148106469-aeb5fd32-1b98-4b6a-8e9a-2a0d95d4e542.png" title="Node.js" alt="Node.js" height=40px, width=40px/>
+	</a>
+	&emsp;
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express.js" alt="Express.js" height=40px, width=40px/>
+	</a>
+	&emsp;
+</p>
 
 <br> 
 
