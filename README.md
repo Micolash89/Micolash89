@@ -32,7 +32,7 @@
 <p align="center"> 
  	 &emsp;
 	<a href="#">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Light.svg" alt="Java" height=40px, width=40px/>
+		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Light.svg" title="Java" alt="Java" height=40px, width=40px/>
 	</a>
  	 &emsp;
   	<a href="#">
@@ -54,6 +54,7 @@
   	<a href="#">
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Kotlin-Dark.svg" alt="Kotlin" height=40px, width=40px/>
 	</a>
+	&emsp;
   	<a href="#">
 		<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" height=40px, width=40px/>
 	</a>
@@ -145,6 +146,7 @@
 	<a href="#">
 		<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" height=40px, width=40px/>
 	</a>
+	&emsp;
 	</a>
 	&emsp;
 	<a href="#">
