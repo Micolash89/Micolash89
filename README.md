@@ -7,12 +7,21 @@
 
 ## <picture><img src = "https://i.imgur.com/BvomNsK.png" width = 70px></picture> Perfil
 
-- 🎓 Soy un estudiante de sistemas/programación con una sólida base en desarrollo backend.
-- 💻 Tengo experiencia en desarrollo backend, con un enfoque en la resolución de problemas, y estoy ampliando constantemente mis habilidades.
-- 🚀 Participando activamente en cursos que abarcan tanto el desarrollo backend como frontend, mostrando experiencia en JavaScript, HTML5, CSS3/Bootstrap.
-- 🔍 Enfocado en la excelencia y dedicación, buscando activamente oportunidades para adquirir experiencia práctica en tecnología.
-- 💡 Emocionado por enfrentar desafíos tecnológicos, aprender continuamente y colaborar eficazmente en equipos multidisciplinarios.
-- 🌱 Actualmente estoy abierto a nuevas oportunidades laborales.
+# 👋 ¡Hola! Soy Javier Espindola
+
+🎓 **Desarrollador Full Stack** con una sólida experiencia en desarrollo web, tanto en frontend como en backend.
+
+💻 **Habilidades principales**: Mi stack tecnológico abarca **Java**, **JavaScript** (Node.js), **React**, **Spring**, **Python**, y bases de datos como **MySQL**, **PostgreSQL** y **MongoDB**. He realizado proyectos como un **CRUD Page** y una **E-commerce Page**, integrando frontend y backend para lograr soluciones robustas y eficientes.
+
+🚀 **Experiencia destacada**: Recientemente participé en el desarrollo de un MVP de **Gestión de Inscripciones** para la iniciativa POLO IT, donde trabajé en la integración de frontend y backend utilizando **React** y **Node.js** para manejar inscripciones y mentorías técnicas.
+
+🔍 **Enfoque y motivación**: Me apasiona la resolución de problemas, la mejora continua y el aprendizaje constante. Trabajo con un enfoque en la excelencia y la adaptabilidad, siempre dispuesto a enfrentar nuevos desafíos y colaborar en equipos multidisciplinarios.
+
+🌱 **Aprendizaje continuo**: Actualmente estoy ampliando mis habilidades mediante cursos avanzados en **backend con Node.js y Java/Spring**, así como en prácticas de **metodologías ágiles** y **mejoras de UI/UX**.
+
+💼 **Objetivo**: Estoy en búsqueda activa de nuevas oportunidades laborales para aplicar y seguir ampliando mis conocimientos en proyectos innovadores.
+
+¡Si quieres saber más o colaborar en un proyecto, no dudes en contactarme!
 
 <br>
 
