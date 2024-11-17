@@ -144,7 +144,7 @@
 	</a>
 	&emsp;
 	<a href="#">
-		<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Spring Boot" alt="Sprintboot" height=40px, width=40px/>
+		<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" title="Hibernate" alt="Hibernate" height=40px, width=40px/>
 	</a>
 	&emsp;
 	<a href="#">
@@ -173,6 +173,9 @@
 		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express.js" alt="Express.js" height=40px, width=40px/>
 	</a>
 	&emsp;
+	<a href="#">
+		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS" height=40px, width=40px/>
+	</a>
 </p>
 
 <br> 
